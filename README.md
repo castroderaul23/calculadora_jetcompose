@@ -8,7 +8,7 @@ A aplicação permite realizar operações matemáticas básicas através de uma
 
 ## 📸 Interface da Aplicação
 
-![Calculadora](img/calculadora.png)
+![Calculadora](images/calculadora.png)
 
 ---
 
